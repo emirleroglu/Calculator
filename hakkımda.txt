@@ -5,5 +5,6 @@ java Developer
 database yazılımı yapmak
 
 5374202522
+yorum satırı eklendi
 
 
