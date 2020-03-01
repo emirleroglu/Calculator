@@ -47,7 +47,7 @@ public class calculator extends javax.swing.JFrame {
         jTextField1.setEnabled(true);
         jButton1.setEnabled(true);
         jButton2.setEnabled(true);
-        jButton3.setEnabled(false);
+        jButton3.setEnabled(true);
         jButton4.setEnabled(true);
         jButton5.setEnabled(true);
         jButton6.setEnabled(true);
